@@ -1915,10 +1915,13 @@ body {
   color: #000000;
 }
 .cid-rk8jyQ9WGu LI {
-  color: #232323;
+  color: #000000;
 }
 .cid-rk8jyQ9WGu .price-term {
-  color: #000000;
+  color: #44f10e;
+}
+.cid-rk8jyQ9WGu UL {
+  text-align: center;
 }
 .cid-rjCSPoeqev {
   padding-top: 75px;
